@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Data Science
 - 🌱 I’m currently learning ...Python
 - 📫 How to reach me ...Mail @v5102003p@gmail.com
-- ⚡ Fun fact: ...A car enthusiast!
+- ⚡ Fun fact: ...A car enthusiast! Love to discover new places. 
 
 <!---
 VishnuvardhanRavichandran/VishnuvardhanRavichandran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
